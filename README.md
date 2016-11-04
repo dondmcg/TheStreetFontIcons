@@ -9,8 +9,9 @@ To add the font-icon library to a project:
 As long as your file structure is the same as TST-NG these instructions should work otherwise editing the urls from the _font-icons.scss may be necessary
 
 To edit the fonts: 
-1. upload the selection.json file to icomoon.io app
-2. add, edit or delete and then click "Generate Font"
-3. edit the resulting style.css to match the _font-icons.scss file
-4. follow the instructions above to add the font-icon library to a project
-4. update the gh-pages branch so that the demo page reflects the changes
+<ol><li>upload the selection.json file to icomoon.io app</li>
+<li>add, edit or delete and then click "Generate Font"</li>
+<li>edit the resulting style.css to match the _font-icons.scss file</li>
+<li>follow the instructions above to add the font-icon library to a project</li>
+<li>update the gh-pages branch so that the demo page reflects the changes</li>
+</ol>
